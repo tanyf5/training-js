@@ -1,0 +1,20 @@
+ul {
+  list-style: none;
+}
+
+/* .gallery {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.gallery-image {
+  width: 360px;
+  height: 200px;
+  object-fit: cover;
+} */
